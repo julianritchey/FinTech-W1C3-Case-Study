@@ -17,3 +17,14 @@ Due to its focus on digital innovation and mobile payment technology, Starbucks 
 
 Starbucks is teaming up with msft to track coffee bean production. This helps them conform to ethically sourced beans.
 "In 2015, Starbucks announced it had reached an industry milestone of 99 percent ethically sourced coffee, consciously leaving the remaining 1 percent to allow for discovery and work in new origins. Any company can claim to source sustainably, and many do, but transparency is key to those commitments, and technology is key to transparency, Burns said."
+
+### Strengths and weaknesses ###
+Starbucks has long been active in the FinTech space, providing mobile and online features to consumers such as digital ordering, digital payments, and even digital wallets in the form of gift cards.
+
+Despite its strengths, Starbucks faces some challenges in the FinTech space, including:
+- Cybersecurity risks: With so much personal and financial information being transmitted through its mobile app, Starbucks faces the risk of cybersecurity breaches and other digital threats.
+- Technical issues: As with any technology platform, Starbucks' mobile app and digital systems can sometimes experience technical glitches or outages that can frustrate customers.
+- Privacy concerns: As Starbucks collects more data on customer behavior, it must be mindful of privacy concerns and ensure that it is using customer data in a responsible and transparent way
+
+### Moving forward ###
+Starbucks is aiming for 100% ethically sourced coffee beans. "Since its beginning, Starbucks has known the names of the farmers within its supply chain, including the more than 380,000 farms it worked with last year alone. Through the foundational work in the Coffee and Farmer Equity (C.A.F.E) Practices program, Starbucks has traceability today. But incorporating technology and digitizing the traceability creates the potential for more ways to share more information with both customers and farmers."
