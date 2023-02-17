@@ -9,7 +9,7 @@
 
 ### FinTech involvement ###
 > <p align="justify"> Starbucks is considered a technology leader in the food and beverage industry, with several digital initiatives that have helped the company streamline operations, improve the customer experience, and increase sales. Some of the ways that Starbucks uses technology to their advantage include:</p>
-
+>
 > 1. Mobile ordering and payment: Starbucks has a mobile app that allows customers to order and pay for their drinks ahead of time, reducing wait times and increasing convenience.  
 > 2. Loyalty program: Starbucks has a rewards program that rewards customers with points for purchases made with the mobile app or physical Starbucks Card. This incentivizes customers to make repeat purchases and helps Starbucks gather data on customer preferences.  
 > 3. Data analytics: Starbucks uses data analytics to understand customer behavior, including which products are most popular, when and where people are buying, and which promotions are driving sales.  
