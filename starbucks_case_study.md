@@ -17,6 +17,7 @@
 > <p align="justify"> Due to its focus on digital innovation and mobile payment technology, Starbucks is often considered a FinTech company. However, it's worth noting that while Starbucks does use financial technology to improve the customer experience, it is primarily a coffee company with a strong digital presence, rather than a pure FinTech firm.
 
 <p align="justify"> Starbucks is teaming up with Microsoft to track coffee bean production. This helps them conform to ethically sourced beans.
+  
 > <p align="justify"> In 2015, Starbucks announced it had reached an industry milestone of 99 percent ethically sourced coffee, consciously leaving the remaining 1 percent to allow for discovery and work in new origins. Any company can claim to source sustainably, and many do, but transparency is key to those commitments, and technology is key to transparency, Burns said.
 
 ### Strengths and weaknesses ###
