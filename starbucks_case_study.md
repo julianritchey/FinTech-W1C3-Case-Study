@@ -9,9 +9,9 @@
 
 ### FinTech involvement ###
 > <p align="justify"> Starbucks is considered a technology leader in the food and beverage industry, with several digital initiatives that have helped the company streamline operations, improve the customer experience, and increase sales. Some of the ways that Starbucks uses technology to their advantage include: </p>
-> 1. Mobile ordering and payment: Starbucks has a mobile app that allows customers to order and pay for their drinks ahead of time, reducing wait times and increasing convenience.
-> 2. Loyalty program: Starbucks has a rewards program that rewards customers with points for purchases made with the mobile app or physical Starbucks Card. This incentivizes customers to make repeat purchases and helps Starbucks gather data on customer preferences.
-> 3. Data analytics: Starbucks uses data analytics to understand customer behavior, including which products are most popular, when and where people are buying, and which promotions are driving sales.
+> 1. Mobile ordering and payment: Starbucks has a mobile app that allows customers to order and pay for their drinks ahead of time, reducing wait times and increasing convenience.  
+> 2. Loyalty program: Starbucks has a rewards program that rewards customers with points for purchases made with the mobile app or physical Starbucks Card. This incentivizes customers to make repeat purchases and helps Starbucks gather data on customer preferences.  
+> 3. Data analytics: Starbucks uses data analytics to understand customer behavior, including which products are most popular, when and where people are buying, and which promotions are driving sales.  
 > 4. Digital partnerships: Starbucks has formed partnerships with companies like Spotify and Uber to integrate their services into the Starbucks mobile app, creating a seamless experience for customers.
 > <p align="justify"> Due to its focus on digital innovation and mobile payment technology, Starbucks is often considered a FinTech company. However, it's worth noting that while Starbucks does use financial technology to improve the customer experience, it is primarily a coffee company with a strong digital presence, rather than a pure FinTech firm.
 
