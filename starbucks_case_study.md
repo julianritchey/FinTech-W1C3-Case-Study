@@ -1,11 +1,11 @@
 # How Starbucks Wants to Connect Coffee Consumers with Coffee Producers #
 
 ### Background ###
-> Starbucks is a multinational coffeehouse chain that was founded in 1971 in Seattle, Washington. The company initially sold only coffee beans and coffee-making equipment but soon started serving coffee as well. Today, Starbucks is one of the world's largest coffeehouse chains, with more than 32,000 locations in 83 countries.
+> <p align="justify"> Starbucks is a multinational coffeehouse chain that was founded in 1971 in Seattle, Washington. The company initially sold only coffee beans and coffee-making equipment but soon started serving coffee as well. Today, Starbucks is one of the world's largest coffeehouse chains, with more than 32,000 locations in 83 countries. </p>
 
-> Starbucks is best known for its high-quality coffee, as well as its cozy, inviting atmosphere that encourages people to spend time in their stores. The company serves a wide variety of coffee beverages, as well as tea, pastries, sandwiches, and other snacks.
+> <p align="justify"> Starbucks is best known for its high-quality coffee, as well as its cozy, inviting atmosphere that encourages people to spend time in their stores. The company serves a wide variety of coffee beverages, as well as tea, pastries, sandwiches, and other snacks. </p>
 
-> Starbucks' competitors include other large coffee chains such as Dunkin' Donuts, Costa Coffee, Tim Hortons, and Peet's Coffee, as well as smaller, independent coffee shops. In recent years, fast food chains such as McDonald's and Burger King have also entered the coffee market, offering their own coffee and breakfast menus to compete with Starbucks.
+> <p align="justify"> Starbucks' competitors include other large coffee chains such as Dunkin' Donuts, Costa Coffee, Tim Hortons, and Peet's Coffee, as well as smaller, independent coffee shops. In recent years, fast food chains such as McDonald's and Burger King have also entered the coffee market, offering their own coffee and breakfast menus to compete with Starbucks.</p>
 
 ### FinTech involvement ###
 > Starbucks is considered a technology leader in the food and beverage industry, with several digital initiatives that have helped the company streamline operations, improve the customer experience, and increase sales. Some of the ways that Starbucks uses technology to their advantage include:
